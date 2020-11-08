@@ -15,5 +15,5 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Share-to-print label [CHAR LIMIT=20] -->
+    <string name="print">Տպել</string>
 </resources>
